@@ -1,4 +1,6 @@
+
 /db.sqlite3
+>>>>>>> f60a7cf42a50948d8e89e6877f2d62ab431aeabc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -55,4 +57,8 @@ coverage.xml
 docs/_build/
 
 # PyBuilder
+<<<<<<< HEAD
 target/
+=======
+target/
+>>>>>>> f60a7cf42a50948d8e89e6877f2d62ab431aeabc
